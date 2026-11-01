@@ -1,0 +1,9 @@
+/config.php
+/.env
+/.env.*
+/.DS_Store
+/vendor/
+node_modules/
+*.dump
+*.log
+/.idea/
